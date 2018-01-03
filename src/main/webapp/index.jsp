@@ -11,6 +11,6 @@
 <%
 out.println(new InsultGenerator().generateInsult());
 %>
-
+Testing the JSP got called.
 </body>
 </html>
